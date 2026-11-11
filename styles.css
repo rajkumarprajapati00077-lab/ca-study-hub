@@ -34,12 +34,13 @@ img{max-width:100%}
   position:sticky;top:0;z-index:20;
 }
 .header-inner{
-  max-width:var(--max);margin:0 auto;padding:14px 20px;
+  max-width:var(--max);margin:0 auto;padding:12px 20px;
   display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
 }
-.brand{font-size:22px;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
-.brand span{color:var(--accent)}
+.brand{display:flex;align-items:center}
 .brand:hover{text-decoration:none}
+.brand-logo{height:38px;width:auto;display:block}
+.brand span{color:var(--accent)}
 .nav{display:flex;gap:4px;flex-wrap:wrap}
 .nav a{
   color:var(--muted);font-weight:600;font-size:15px;
@@ -54,6 +55,10 @@ img{max-width:100%}
 
 /* ---------- hero ---------- */
 .hero{padding:44px 0 8px}
+.eyebrow{
+  font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--accent-2);margin-bottom:12px;
+}
 .hero h1{font-size:clamp(30px,5vw,44px);line-height:1.15;letter-spacing:-.02em;font-weight:800}
 .hero h1 em{font-style:normal;color:var(--accent)}
 .hero p.lead{margin-top:14px;font-size:18px;color:var(--muted);max-width:640px}
@@ -145,6 +150,7 @@ img{max-width:100%}
 .site-footer{border-top:1px solid var(--line);margin-top:52px;background:var(--surface)}
 .footer-inner{max-width:var(--max);margin:0 auto;padding:28px 20px;color:var(--muted);font-size:14px}
 .footer-inner b{color:var(--ink)}
+.footer-logo{height:30px;width:auto;display:block;margin-bottom:12px}
 .footer-inner .fine{margin-top:8px;font-size:13px}
 
 /* ---------- responsive ---------- */
@@ -155,8 +161,9 @@ img{max-width:100%}
   body{font-size:16px}
   .cards{grid-template-columns:1fr}
   .hero{padding-top:30px}
-  .header-inner{padding:12px 16px}
+  .header-inner{padding:10px 16px}
   .brand{font-size:19px}
+  .brand-logo{height:32px}
   .plan-table{font-size:14px}
   .plan-table th,.plan-table td{padding:8px}
 }
