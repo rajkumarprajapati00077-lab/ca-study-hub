@@ -1,6 +1,6 @@
 # CA Study Hub
 
-A simple, clean, mobile-friendly blog for CA Inter Group I (Jan 2027 attempt) study tips, written in Hinglish.
+A simple, clean, mobile-friendly blog for CA Inter Group I (Jan 2027 attempt) study tips, written in clear, simple English. (Rebuilt in English on 11 Nov 2026 — the earlier version was in Hinglish.)
 
 - **Live site:** (see deployment URL)
 - **Stack:** plain static HTML + CSS. No build step, no framework, no database.
@@ -12,6 +12,9 @@ A simple, clean, mobile-friendly blog for CA Inter Group I (Jan 2027 attempt) st
 - `about.html` — about the blog
 - `articles/` — 7 article pages
 - `styles.css` — all styling (light theme)
+- `logo.svg` — full logo (graduation cap + open book + "CA Study Hub" wordmark), used in the site header and footer
+- `favicon.svg` — logo mark only, used as the site favicon
+- `logo-fb-profile.png` — 500×500 PNG of the logo, for use as a Facebook Page profile picture
 - `.nojekyll` — tells GitHub Pages to serve files as-is
 
 ## Monetag ad slots (placeholder — fill in later)
