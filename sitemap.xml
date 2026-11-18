@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ca-study-hub-two.vercel.app/</loc><lastmod>2026-11-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://ca-study-hub-two.vercel.app/about.html</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ca-study-hub-two.vercel.app/</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ca-study-hub-two.vercel.app/about.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://ca-study-hub-two.vercel.app/articles/last-60-days-revision-plan.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ca-study-hub-two.vercel.app/articles/advanced-accounts-fast-revision.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ca-study-hub-two.vercel.app/articles/law-sections-yaad-rakhne-ka-tareeka.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -9,4 +9,7 @@
   <url><loc>https://ca-study-hub-two.vercel.app/articles/100-marks-paper-attempt-strategy.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ca-study-hub-two.vercel.app/articles/mock-test-strategy-rtp-mtp-pyq.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ca-study-hub-two.vercel.app/articles/last-2-months-consistency.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ca-study-hub-two.vercel.app/articles/icai-jan-2027-exam-form-last-dates.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ca-study-hub-two.vercel.app/articles/cs-executive-professional-december-2026-timetable.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ca-study-hub-two.vercel.app/articles/cma-december-2026-exam-dates.html</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
